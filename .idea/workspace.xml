@@ -5,122 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb222c41-b278-4949-9b7c-f8502cd446dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA from college wallah.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ArrayReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ElementPresentornot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Equalpartition_of_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Evenatbegning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Lastoccurances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Lastvaluereptinginarry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/MaximumofArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Numberofoccurances_of_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Queries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Reverseanarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Rotatebykfactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Rotateinplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Secondmaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Sortedornot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Targetsum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/prifixsum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/prifixsum_with_queries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/sortarraycontaning0_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/sortarraywithsquire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/swapusingadd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/uniqueelementinarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/Mazepath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/Mazepath_4dir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/RatinDeadmaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/ratinDeadMazeFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/DistributeChocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/FirstOccurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Racetrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/RotedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/RotedsortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/SquareRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Implementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/NthfromLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/ReverseLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Merge_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_1/Naturalnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_1/intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_5/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_5/Linearsearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_5/Max_Ele_In_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_5/Reverse_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_5/String_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_5/SumofArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo/Bubble_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo/Insertion_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo/Quick_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo/Selection_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo/lexicographical_ordxer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo/puttingZero_in_last.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo2/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/ArrayImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/CopyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/InsertionInStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Linkedlist_imp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Part2/BalanceParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Part2/Consecutive_Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Part2/Nextgreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/ReversestackUsingRec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/CountChat_Leetcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/ReverseWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/Basicof_Arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/Filling_in_spiralorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/Intro_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/Matrix_Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/Matrix_mul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/PrefixSumInCoordinate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/Reverseof_Eachrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/Reversing_Element_in_Arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/Rotateby_90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/Spiralorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/Transpose_of_matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/pascaltrangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2D_array/prifixsum_in_cordinate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Anagaram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/FrequencyMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/HashmapImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Hashset/Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Hashset/LongestConsecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Hashset/MaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Isomorphic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/LargestSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Syntax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Twosum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/placement/AnagramChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/placement/BellTrangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/placement/Even_odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/placement/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/placement/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/placement/ScatterPalindromeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/placement/fun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion2_last/fibonacci_series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion2_last/numberof_digit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion2_last/p_power_q.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion2_last/rec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion2_last/sumof_digit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion_3/Gcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion_3/Rec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion_3/sumofalternative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion_8/Frog_Jump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion_8/Keybord_combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion_8/Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/PermutationCopy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +139,7 @@
     "Application.uniqueelementinarray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/DSA from pw/DSA from college wallah",
