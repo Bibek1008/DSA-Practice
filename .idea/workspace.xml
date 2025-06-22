@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb222c41-b278-4949-9b7c-f8502cd446dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA from college wallah.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ElementPresentornot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Equalpartition_of_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Evenatbegning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Lastoccurances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Lastvaluereptinginarry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MaximumofArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Numberofoccurances_of_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Queries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Reverseanarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Rotatebykfactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Rotateinplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Secondmaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Sortedornot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Targetsum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/prifixsum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/prifixsum_with_queries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/sortarraycontaning0_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/sortarraywithsquire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/swapusingadd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/uniqueelementinarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/Mazepath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/Mazepath_4dir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/RatinDeadmaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/ratinDeadMazeFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/DistributeChocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/FirstOccurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Racetrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/RotedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/RotedsortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Implementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/NthfromLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/ReverseLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_1/Naturalnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_1/intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_5/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_5/Linearsearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_5/Max_Ele_In_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_5/Reverse_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_5/String_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_5/SumofArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo/Bubble_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo/Insertion_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo/Quick_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo/Selection_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo/lexicographical_ordxer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo/puttingZero_in_last.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting_Algo2/CountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/ArrayImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/CopyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/InsertionInStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Linkedlist_imp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Part2/BalanceParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Part2/Consecutive_Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Part2/Nextgreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/ReversestackUsingRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/CountChat_Leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/ReverseWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/Basicof_Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/Filling_in_spiralorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/Intro_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/Matrix_Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/Matrix_mul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/PrefixSumInCoordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/Reverseof_Eachrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/Reversing_Element_in_Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/Rotateby_90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/Spiralorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/Transpose_of_matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/pascaltrangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2D_array/prifixsum_in_cordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Anagaram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/FrequencyMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/HashmapImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Hashset/Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Hashset/LongestConsecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Hashset/MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Isomorphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/LargestSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Syntax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Hashmap/Twosum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/placement/AnagramChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/placement/BellTrangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/placement/Even_odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/placement/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/placement/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/placement/ScatterPalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/placement/fun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion2_last/fibonacci_series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion2_last/numberof_digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion2_last/p_power_q.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion2_last/rec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion2_last/sumof_digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion_3/Gcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion_3/Rec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion_3/sumofalternative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion_8/Frog_Jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion_8/Keybord_combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion_8/Subsequence.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2mO3zVlGym9hxYgJKObia3GmJav" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnagramChecker.executor": "Run",
+    "Application.ArrayImplementation.executor": "Run",
+    "Application.ArrayListExample.executor": "Run",
+    "Application.ArrayReference.executor": "Run",
+    "Application.BalanceParentheses.executor": "Run",
+    "Application.Basic.executor": "Run",
+    "Application.Basicof_Arraylist.executor": "Run",
+    "Application.BellTrangle.executor": "Run",
+    "Application.Blancepranthesis.executor": "Run",
+    "Application.Bubble_sort.executor": "Run",
+    "Application.Consecutive_Subsequence.executor": "Run",
+    "Application.CopyStack.executor": "Run",
+    "Application.CountChat_Leetcode.executor": "Run",
+    "Application.CountSort.executor": "Run",
+    "Application.DistributeChocolate.executor": "Run",
+    "Application.ElementPresentornot.executor": "Run",
+    "Application.Equalpartition_of_array.executor": "Run",
+    "Application.Even_odd.executor": "Run",
+    "Application.Evenatbegning.executor": "Run",
+    "Application.Filling_in_spiralorder.executor": "Run",
+    "Application.FirstOccurance.executor": "Run",
+    "Application.FrequencyMap.executor": "Run",
+    "Application.Frog_Jump.executor": "Run",
+    "Application.Gcd.executor": "Run",
+    "Application.Implementation.executor": "Run",
+    "Application.InsertionInStack.executor": "Run",
+    "Application.Insertion_Sort.executor": "Run",
+    "Application.Intro.executor": "Run",
+    "Application.Intro_2D.executor": "Run",
+    "Application.Keybord_combination.executor": "Run",
+    "Application.Lastoccurances.executor": "Run",
+    "Application.Lastvaluereptinginarry.executor": "Run",
+    "Application.Linearsearch.executor": "Run",
+    "Application.Linkedlist_imp.executor": "Run",
+    "Application.Matrix_Add.executor": "Run",
+    "Application.Matrix_mul.executor": "Run",
+    "Application.MaxNumber.executor": "Run",
+    "Application.Max_Ele_In_Array.executor": "Run",
+    "Application.MaximumofArray.executor": "Run",
+    "Application.Mazepath.executor": "Run",
+    "Application.Mazepath_4dir.executor": "Run",
+    "Application.Naturalnumber.executor": "Run",
+    "Application.Nextgreater.executor": "Run",
+    "Application.NthfromLast.executor": "Run",
+    "Application.Numberofoccurances_of_element.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.Permutation.executor": "Run",
+    "Application.PrefixSumInCoordinate.executor": "Run",
+    "Application.PrifixSumInCoordinate.executor": "Run",
+    "Application.Queries.executor": "Run",
+    "Application.Quick_Sort.executor": "Run",
+    "Application.Racetrack.executor": "Run",
+    "Application.RatinDeadmaze.executor": "Run",
+    "Application.Rec.executor": "Run",
+    "Application.ReverseLL.executor": "Run",
+    "Application.ReverseWord.executor": "Run",
+    "Application.Reverse_String.executor": "Run",
+    "Application.Reverseanarray.executor": "Run",
+    "Application.Reverseof_Eachrow.executor": "Run",
+    "Application.ReversestackUsingRec.executor": "Run",
+    "Application.Reversing_Element_in_Arraylist.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.Rotateby_90.executor": "Run",
+    "Application.Rotatebykfactor.executor": "Run",
+    "Application.Rotateinplace.executor": "Run",
+    "Application.RotedArray.executor": "Run",
+    "Application.RotedsortedArray.executor": "Run",
+    "Application.ScatterPalindromeChecker.executor": "Run",
+    "Application.Secondmaximum.executor": "Run",
+    "Application.Selection_Sort.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Sortedornot.executor": "Run",
+    "Application.Sorting_Algo2.executor": "Run",
+    "Application.Spiralorder.executor": "Run",
+    "Application.SquareRoot.executor": "Run",
+    "Application.Squireroot.executor": "Run",
+    "Application.String_Example.executor": "Run",
+    "Application.Subsequence.executor": "Run",
+    "Application.SumofArray.executor": "Run",
+    "Application.Syntax.executor": "Run",
+    "Application.Targetsum.executor": "Run",
+    "Application.Transpose_of_matrix.executor": "Run",
+    "Application.fibonacci_series.executor": "Run",
+    "Application.fun.executor": "Run",
+    "Application.intro.executor": "Run",
+    "Application.largest.executor": "Run",
+    "Application.lexicographical_ordxer.executor": "Run",
+    "Application.numberof_digit.executor": "Run",
+    "Application.p_power_q.executor": "Run",
+    "Application.pascaltrangle.executor": "Run",
+    "Application.prifixsum.executor": "Run",
+    "Application.prifixsum_in_cordinate.executor": "Run",
+    "Application.prifixsum_with_queries.executor": "Run",
+    "Application.puttingZero_in_last.executor": "Run",
+    "Application.ratinDeadMazeFour.executor": "Run",
+    "Application.rec.executor": "Run",
+    "Application.sortarraycontaning0_1.executor": "Run",
+    "Application.sortarraywithsquire.executor": "Run",
+    "Application.sumof_digit.executor": "Run",
+    "Application.sumofalternative.executor": "Run",
+    "Application.swapusingadd.executor": "Run",
+    "Application.uniqueelementinarray.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/DSA from pw/DSA from college wallah",
+    "onboarding.tips.debug.path": "D:/DSA from pw/DSA from college wallah/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb222c41-b278-4949-9b7c-f8502cd446dc" name="Changes" comment="" />
+      <created>1726934065832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726934065832</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_2D_array/Transpose_of_matrix.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_2D_array/Transpose_of_matrix.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
