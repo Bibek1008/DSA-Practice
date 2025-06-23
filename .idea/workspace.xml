@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb222c41-b278-4949-9b7c-f8502cd446dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/PermutationCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/Nqueen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,10 +79,12 @@
     "Application.Mazepath_4dir.executor": "Run",
     "Application.Naturalnumber.executor": "Run",
     "Application.Nextgreater.executor": "Run",
+    "Application.Nqueen.executor": "Run",
     "Application.NthfromLast.executor": "Run",
     "Application.Numberofoccurances_of_element.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.Permutation.executor": "Run",
+    "Application.PermutationCopy.executor": "Run",
     "Application.PrefixSumInCoordinate.executor": "Run",
     "Application.PrifixSumInCoordinate.executor": "Run",
     "Application.Queries.executor": "Run",
@@ -170,6 +173,24 @@
           <url>file://$PROJECT_DIR$/src/_2D_array/Transpose_of_matrix.java</url>
           <line>42</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Backtracking/Nqueen.java</url>
+          <line>22</line>
+          <properties class="Backtracking.Nqueen" method="nqeen">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Backtracking/Nqueen.java</url>
+          <line>48</line>
+          <properties class="Backtracking.Nqueen" method="issafe">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
