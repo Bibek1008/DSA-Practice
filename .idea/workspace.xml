@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb222c41-b278-4949-9b7c-f8502cd446dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/Nqueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/maxKnightInchess.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,6 +125,7 @@
     "Application.intro.executor": "Run",
     "Application.largest.executor": "Run",
     "Application.lexicographical_ordxer.executor": "Run",
+    "Application.maxKnightInchess.executor": "Run",
     "Application.numberof_digit.executor": "Run",
     "Application.p_power_q.executor": "Run",
     "Application.pascaltrangle.executor": "Run",
@@ -174,14 +175,10 @@
           <line>42</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
+        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Backtracking/Nqueen.java</url>
-          <line>22</line>
-          <properties class="Backtracking.Nqueen" method="nqeen">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="4" />
+          <line>24</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Backtracking/Nqueen.java</url>
