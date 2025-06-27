@@ -40,6 +40,27 @@ public class sizeMaxSumHeight {
         return root.val+sum(root.left)+sum(root.right);
     }
 
+    static  int height(Node root){
+        if (root == null) {
+            return 0;
+        }
+        if(root.left==null && root.right==null){
+            return 0;
+        }
+        return 1+ Math.max(height(root.left),height(root.right));
+    }
+
+    static  int maximum(Node root){
+        if (root == null) {
+            return Integer.MIN_VALUE;
+        }
+
+        int a=root.val;
+        int b=maximum(root.left);
+        int c=maximum(root.right);
+        return Math.max(a,Math.max(b,c));
+    }
+
     public static void main(String[] args) {
 
         Node root = new Node(1);
@@ -55,7 +76,7 @@ public class sizeMaxSumHeight {
         a.left = c;
         a.right = d;
 
-        Node e = new Node(30);
+        Node e = new Node(36);
         b.right = e;
 
         // Printing the tree
@@ -65,5 +86,8 @@ public class sizeMaxSumHeight {
         System.out.println("Size of tree: " + size(root));
 
         System.out.println("Size of tree: " + sum(root));
+
+        System.out.println("The maximum value of tree: " + maximum(root));
+        System.out.println("The maximum height of tree: " + height(root));
     }
 }
