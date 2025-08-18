@@ -5,9 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb222c41-b278-4949-9b7c-f8502cd446dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tree/Pre_postTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/BSTBuilderFromStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/Predicessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/deleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/predsuccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Coin_change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Fibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Fibo_tabulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/House_rubber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Ways_to_Decode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic_Tree/Construct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Activities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/CutCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Leet435.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/SmallestNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/Insertation_minheap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priority_queue/Construct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priority_queue/Distance_in_plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priority_queue/Kadd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priority_queue/KthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priority_queue/Stream_of_int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priority_queue/Sumk1_k2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/ConstructTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/sizeMaxSumHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/sizeMaxSumHeight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,38 +61,53 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Activities.executor": "Run",
     "Application.AnagramChecker.executor": "Run",
+    "Application.App.executor": "Run",
     "Application.ArrayImplementation.executor": "Run",
     "Application.ArrayListExample.executor": "Run",
     "Application.ArrayReference.executor": "Run",
+    "Application.BSTBuilder.executor": "Run",
+    "Application.BSTBuilderFromStr.executor": "Run",
     "Application.BalanceParentheses.executor": "Run",
     "Application.Basic.executor": "Run",
     "Application.Basicof_Arraylist.executor": "Run",
     "Application.BellTrangle.executor": "Run",
     "Application.Blancepranthesis.executor": "Run",
     "Application.Bubble_sort.executor": "Run",
+    "Application.Coin_change.executor": "Run",
     "Application.Consecutive_Subsequence.executor": "Run",
+    "Application.Construct.executor": "Run",
     "Application.CopyStack.executor": "Run",
     "Application.CountChat_Leetcode.executor": "Run",
     "Application.CountSort.executor": "Run",
+    "Application.CutCost.executor": "Run",
     "Application.DistributeChocolate.executor": "Run",
     "Application.ElementPresentornot.executor": "Run",
     "Application.Equalpartition_of_array.executor": "Run",
     "Application.Even_odd.executor": "Run",
     "Application.Evenatbegning.executor": "Run",
+    "Application.Fibo.executor": "Run",
+    "Application.Fibo_tabulation.executor": "Run",
     "Application.Filling_in_spiralorder.executor": "Run",
     "Application.FirstOccurance.executor": "Run",
     "Application.FrequencyMap.executor": "Run",
     "Application.Frog_Jump.executor": "Run",
     "Application.Gcd.executor": "Run",
+    "Application.House_rubber.executor": "Run",
     "Application.Implementation.executor": "Run",
+    "Application.Insertation_minheap.executor": "Run",
     "Application.InsertionInStack.executor": "Run",
     "Application.Insertion_Sort.executor": "Run",
     "Application.Intro.executor": "Run",
     "Application.Intro_2D.executor": "Run",
+    "Application.Kadd.executor": "Run",
     "Application.Keybord_combination.executor": "Run",
+    "Application.Knapsack.executor": "Run",
+    "Application.KthLargest.executor": "Run",
     "Application.Lastoccurances.executor": "Run",
     "Application.Lastvaluereptinginarry.executor": "Run",
+    "Application.Leet435.executor": "Run",
     "Application.Linearsearch.executor": "Run",
     "Application.Linkedlist_imp.executor": "Run",
     "Application.Matrix_Add.executor": "Run",
@@ -78,6 +117,7 @@
     "Application.MaximumofArray.executor": "Run",
     "Application.Mazepath.executor": "Run",
     "Application.Mazepath_4dir.executor": "Run",
+    "Application.Meeting.executor": "Run",
     "Application.Naturalnumber.executor": "Run",
     "Application.Nextgreater.executor": "Run",
     "Application.Nqueen.executor": "Run",
@@ -87,6 +127,7 @@
     "Application.Permutation.executor": "Run",
     "Application.PermutationCopy.executor": "Run",
     "Application.Pre_postTraversal.executor": "Run",
+    "Application.Predicessor.executor": "Run",
     "Application.PrefixSumInCoordinate.executor": "Run",
     "Application.PrifixSumInCoordinate.executor": "Run",
     "Application.Queries.executor": "Run",
@@ -110,6 +151,7 @@
     "Application.ScatterPalindromeChecker.executor": "Run",
     "Application.Secondmaximum.executor": "Run",
     "Application.Selection_Sort.executor": "Run",
+    "Application.SmallestNum.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.Sortedornot.executor": "Run",
     "Application.Sorting_Algo2.executor": "Run",
@@ -118,10 +160,13 @@
     "Application.Squireroot.executor": "Run",
     "Application.String_Example.executor": "Run",
     "Application.Subsequence.executor": "Run",
+    "Application.Sumk1_k2.executor": "Run",
     "Application.SumofArray.executor": "Run",
     "Application.Syntax.executor": "Run",
     "Application.Targetsum.executor": "Run",
     "Application.Transpose_of_matrix.executor": "Run",
+    "Application.Ways_to_Decode.executor": "Run",
+    "Application.deleteNode.executor": "Run",
     "Application.fibonacci_series.executor": "Run",
     "Application.fun.executor": "Run",
     "Application.intro.executor": "Run",
@@ -131,6 +176,7 @@
     "Application.numberof_digit.executor": "Run",
     "Application.p_power_q.executor": "Run",
     "Application.pascaltrangle.executor": "Run",
+    "Application.predsuccess.executor": "Run",
     "Application.prifixsum.executor": "Run",
     "Application.prifixsum_in_cordinate.executor": "Run",
     "Application.prifixsum_with_queries.executor": "Run",
@@ -217,12 +263,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Tree/Pre_postTraversal.java</url>
-          <line>99</line>
+          <line>102</line>
           <properties class="Tree.Pre_postTraversal" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BST/deleteNode.java</url>
+          <line>5</line>
+          <properties class="BST.deleteNode" method="buildTree">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
