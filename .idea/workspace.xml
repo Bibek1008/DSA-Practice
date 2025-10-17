@@ -5,32 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb222c41-b278-4949-9b7c-f8502cd446dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BST/BSTBuilderFromStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BST/Predicessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BST/deleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BST/predsuccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Coin_change.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Fibo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Fibo_tabulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/House_rubber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Ways_to_Decode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic_Tree/Construct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/Activities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/CutCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/Leet435.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/Meeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/SmallestNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heap/Insertation_minheap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priority_queue/Construct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priority_queue/Distance_in_plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priority_queue/Kadd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priority_queue/KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priority_queue/Stream_of_int.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priority_queue/Sumk1_k2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/ConstructTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/All_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Articulation_point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/BellmanFors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Cycle_dect_undirected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Cycle_detection_directed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/DijkshatraAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/KosaRaje_algo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Prims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Tarjan_Algo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Topological_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/WeightedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie/Intro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,17 +49,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Activities.executor": "Run",
+    "Application.All_Path.executor": "Run",
     "Application.AnagramChecker.executor": "Run",
     "Application.App.executor": "Run",
     "Application.ArrayImplementation.executor": "Run",
     "Application.ArrayListExample.executor": "Run",
     "Application.ArrayReference.executor": "Run",
+    "Application.Articulation_point.executor": "Run",
     "Application.BSTBuilder.executor": "Run",
     "Application.BSTBuilderFromStr.executor": "Run",
     "Application.BalanceParentheses.executor": "Run",
     "Application.Basic.executor": "Run",
     "Application.Basicof_Arraylist.executor": "Run",
     "Application.BellTrangle.executor": "Run",
+    "Application.BellmanFors.executor": "Run",
     "Application.Blancepranthesis.executor": "Run",
     "Application.Bubble_sort.executor": "Run",
     "Application.Coin_change.executor": "Run",
@@ -82,6 +72,9 @@
     "Application.CountChat_Leetcode.executor": "Run",
     "Application.CountSort.executor": "Run",
     "Application.CutCost.executor": "Run",
+    "Application.Cycle_dect_undirected.executor": "Run",
+    "Application.Cycle_detection_directed.executor": "Run",
+    "Application.DijkshatraAlgo.executor": "Run",
     "Application.DistributeChocolate.executor": "Run",
     "Application.ElementPresentornot.executor": "Run",
     "Application.Equalpartition_of_array.executor": "Run",
@@ -104,6 +97,7 @@
     "Application.Kadd.executor": "Run",
     "Application.Keybord_combination.executor": "Run",
     "Application.Knapsack.executor": "Run",
+    "Application.KosaRaje_algo.executor": "Run",
     "Application.KthLargest.executor": "Run",
     "Application.Lastoccurances.executor": "Run",
     "Application.Lastvaluereptinginarry.executor": "Run",
@@ -130,6 +124,7 @@
     "Application.Predicessor.executor": "Run",
     "Application.PrefixSumInCoordinate.executor": "Run",
     "Application.PrifixSumInCoordinate.executor": "Run",
+    "Application.Prims.executor": "Run",
     "Application.Queries.executor": "Run",
     "Application.Quick_Sort.executor": "Run",
     "Application.Racetrack.executor": "Run",
@@ -164,8 +159,11 @@
     "Application.SumofArray.executor": "Run",
     "Application.Syntax.executor": "Run",
     "Application.Targetsum.executor": "Run",
+    "Application.Tarjan_Algo.executor": "Run",
+    "Application.Topological_sort.executor": "Run",
     "Application.Transpose_of_matrix.executor": "Run",
     "Application.Ways_to_Decode.executor": "Run",
+    "Application.WeightedGraph.executor": "Run",
     "Application.deleteNode.executor": "Run",
     "Application.fibonacci_series.executor": "Run",
     "Application.fun.executor": "Run",
@@ -234,6 +232,11 @@
           <line>16</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Graph/Tarjan_Algo.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Backtracking/Nqueen.java</url>
           <line>48</line>
@@ -278,6 +281,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Trie/Intro.java</url>
+          <line>37</line>
+          <properties class="Trie.Intro" method="insert">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Graph/Prims.java</url>
+          <line>20</line>
+          <properties class="Graph.Prims.Pair">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
